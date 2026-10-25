@@ -1,0 +1,107 @@
+{
+ "config": {
+  "nombre": "Venta de Electrodomésticos",
+  "whatsapp": "5354487986"
+ },
+ "productos": [
+  {
+   "id": "p1",
+   "n": "Combo solar EcoFlow Delta 3 Max",
+   "c": "Energía solar",
+   "p": 1990,
+   "d": "Estación Delta 3 Max con panel de 450 W y cable de 10 metros.",
+   "i": "foto-p1.jpg",
+   "on": true
+  },
+  {
+   "id": "p2",
+   "n": "Combo solar EcoFlow Delta 3 Plus",
+   "c": "Energía solar",
+   "p": 880,
+   "d": "Estación Delta 3 Plus con panel de 450 W y cable de 10 metros.",
+   "i": "foto-p2.jpg",
+   "on": true
+  },
+  {
+   "id": "p3",
+   "n": "Panel solar Longi 620 W bifacial",
+   "c": "Energía solar",
+   "p": 190,
+   "d": "Genera por ambos lados. Ideal para armar kits solares. En rebaja.",
+   "i": "foto-p3.jpg",
+   "on": true
+  },
+  {
+   "id": "p4",
+   "n": "Split Milexus de 1 tonelada",
+   "c": "Climatización",
+   "p": 285,
+   "d": "220 V. Incluye tuberías de cobre. 30 días de garantía. No trae protector de voltaje ni pie de amigos.",
+   "i": "foto-p4.jpg",
+   "on": true
+  },
+  {
+   "id": "p5",
+   "n": "Refrigerador Royal 8.5 pies",
+   "c": "Refrigeración",
+   "p": 390,
+   "d": "Con dispensador de agua y congelación semi seca.",
+   "i": "foto-p5.jpg",
+   "on": true
+  },
+  {
+   "id": "p6",
+   "n": "Lavadora automática Milexus 7.5 kg",
+   "c": "Lavadoras",
+   "p": 210,
+   "d": "Automática, de carga superior.",
+   "i": "foto-p6.jpg",
+   "on": true
+  },
+  {
+   "id": "p7",
+   "n": "Lavadora semiautomática Milexus 7 kg",
+   "c": "Lavadoras",
+   "p": 190,
+   "d": "Doble tina con secado Air Dry.",
+   "i": "foto-p7.jpg",
+   "on": true
+  },
+  {
+   "id": "p8",
+   "n": "Smart TV Samsung 40 pulgadas",
+   "c": "Televisores",
+   "p": 250,
+   "d": "Soporte de pared de regalo.",
+   "i": "foto-p8.jpg",
+   "on": true
+  },
+  {
+   "id": "p9",
+   "n": "Smart TV Premier 32 pulgadas",
+   "c": "Televisores",
+   "p": 175,
+   "d": "Incluye barra de sonido y soporte de pared.",
+   "i": "foto-p9.jpg",
+   "on": true
+  },
+  {
+   "id": "p10",
+   "n": "Cocina Premier con magneto, negra",
+   "c": "Cocinas",
+   "p": 220,
+   "d": "20 pulgadas, 4 quemadores de gas.",
+   "i": "foto-p10.jpg",
+   "on": true
+  },
+  {
+   "id": "p11",
+   "n": "Cocina Premier con magneto, gris",
+   "c": "Cocinas",
+   "p": 210,
+   "d": "20 pulgadas, 4 quemadores de gas.",
+   "i": "foto-p11.jpg",
+   "on": true
+  }
+ ]
+}
