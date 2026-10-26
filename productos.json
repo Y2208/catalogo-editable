@@ -17,10 +17,10 @@
    "id": "p2",
    "n": "Combo solar EcoFlow Delta 3 Plus",
    "c": "Energía solar",
-   "p": 880,
+   "p": 930,
    "d": "Estación Delta 3 Plus con panel de 450 W y cable de 10 metros.",
-   "i": "foto-p2.jpg",
-   "on": true
+   "on": true,
+   "i": "foto-p2.jpg"
   },
   {
    "id": "p3",
