@@ -44,10 +44,10 @@
    "id": "p5",
    "n": "Refrigerador Royal 8.5 pies",
    "c": "Refrigeración",
-   "p": 390,
+   "p": 380,
    "d": "Con dispensador de agua y congelación semi seca.",
-   "i": "foto-p5.jpg",
-   "on": true
+   "on": true,
+   "i": "foto-p5.jpg"
   },
   {
    "id": "p6",
