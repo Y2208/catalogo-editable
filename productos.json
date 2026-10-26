@@ -33,12 +33,12 @@
   },
   {
    "id": "p4",
-   "n": "Split Milexus de 1 tonelada",
+   "n": "Split Milexus de 1 tonelada AGOTADO",
    "c": "Climatización",
    "p": 285,
-   "d": "220 V. Incluye tuberías de cobre. 30 días de garantía. No trae protector de voltaje ni pie de amigos.",
-   "i": "foto-p4.jpg",
-   "on": true
+   "d": "AGOTADO ...220 V. Incluye tuberías de cobre. 30 días de garantía. No trae protector de voltaje ni pie de amigos.",
+   "on": true,
+   "i": "foto-p4.jpg"
   },
   {
    "id": "p5",
