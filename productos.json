@@ -26,10 +26,10 @@
    "id": "p3",
    "n": "Panel solar Longi 620 W bifacial",
    "c": "Energía solar",
-   "p": 190,
+   "p": 180,
    "d": "Genera por ambos lados. Ideal para armar kits solares. En rebaja.",
-   "i": "foto-p3.jpg",
-   "on": true
+   "on": true,
+   "i": "foto-p3.jpg"
   },
   {
    "id": "p4",
